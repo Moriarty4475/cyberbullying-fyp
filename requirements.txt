@@ -1,0 +1,9 @@
+numpy
+pandas
+streamlit
+tensorflow==2.15.0
+altair==4.0.0
+wordcloud
+nltk
+torch
+pytesseract
